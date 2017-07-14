@@ -1,0 +1,77 @@
+2017-07-11 22:00:48,134 [main] INFO UIOperation - Testcase Reset Login In Application is started to execute..
+2017-07-11 22:00:48,169 [main] INFO UIOperation - Browser Opened
+2017-07-11 22:00:59,341 [main] INFO UIOperation - Navigated to url http://demo.guru99.com/v4/
+2017-07-11 22:00:59,499 [main] INFO UIOperation - Entered Text in Locator uid
+2017-07-11 22:01:19,843 [main] INFO UIOperation - Browser Closed
+2017-07-11 22:01:26,175 [main] INFO UIOperation - Testcase Facebook Login is started to execute..
+2017-07-11 22:01:26,175 [main] INFO UIOperation - Browser Opened
+2017-07-11 22:07:53,860 [main] INFO UIOperation - Testcase Reset Login In Application is started to execute..
+2017-07-11 22:07:53,865 [main] INFO UIOperation - Browser Opened
+2017-07-11 22:08:19,763 [main] INFO UIOperation - Navigated to url http://demo.guru99.com/v4/
+2017-07-11 22:08:19,982 [main] INFO UIOperation - Entered Text in Locator uid
+2017-07-11 22:09:01,303 [main] INFO UIOperation - Testcase Reset Login In Application is started to execute..
+2017-07-11 22:09:01,310 [main] INFO UIOperation - Browser Opened
+2017-07-11 22:09:04,010 [main] INFO UIOperation - Navigated to url http://demo.guru99.com/v4/
+2017-07-11 22:09:04,136 [main] INFO UIOperation - Entered Text in Locator uid
+2017-07-11 22:09:24,411 [main] INFO UIOperation - Browser Closed
+2017-07-11 22:09:29,777 [main] INFO UIOperation - Testcase Facebook Login is started to execute..
+2017-07-11 22:09:29,778 [main] INFO UIOperation - Browser Opened
+2017-07-11 22:09:38,970 [main] INFO UIOperation - Navigated to url https://www.facebook.com/
+2017-07-11 22:09:39,299 [main] INFO UIOperation - Entered Text in Locator email
+2017-07-11 22:09:39,389 [main] INFO UIOperation - Entered Text in Locator pass
+2017-07-11 22:09:39,809 [main] INFO UIOperation - Browser Closed
+2017-07-11 22:09:45,486 [main] INFO UIOperation - Testcase Gmail Login is started to execute..
+2017-07-11 22:09:45,487 [main] INFO UIOperation - Browser Opened
+2017-07-11 22:09:48,577 [main] INFO UIOperation - Navigated to url https://gmail.com
+2017-07-11 22:09:49,072 [main] INFO UIOperation - Entered Text in Locator Email
+2017-07-11 22:09:49,837 [main] INFO UIOperation - Clicked : next
+2017-07-11 22:09:51,290 [main] INFO UIOperation - Entered Text in Locator Passwd
+2017-07-11 22:09:52,117 [main] INFO UIOperation - Clicked : signIn
+2017-07-11 22:10:24,189 [main] INFO UIOperation - Verifying Text : Gmaill
+2017-07-11 22:10:26,219 [main] INFO UIOperation - Browser Closed
+2017-07-13 23:09:22,683 [main] INFO UIOperation - Testcase Reset Login In Application is started to execute..
+2017-07-13 23:09:22,721 [main] INFO UIOperation - Browser Opened
+2017-07-13 23:09:24,556 [main] INFO UIOperation - Navigated to url http://demo.guru99.com/v4/
+2017-07-13 23:09:24,686 [main] INFO UIOperation - Entered Text in Locator uid
+2017-07-13 23:09:24,750 [main] INFO UIOperation - Entered Text in Locator password
+2017-07-13 23:09:24,841 [main] INFO UIOperation - Clicked : btnReset
+2017-07-13 23:09:25,060 [main] INFO UIOperation - Browser Closed
+2017-07-13 23:09:29,719 [main] INFO UIOperation - Testcase Facebook Login is started to execute..
+2017-07-13 23:09:29,720 [main] INFO UIOperation - Browser Opened
+2017-07-13 23:09:32,594 [main] INFO UIOperation - Navigated to url https://www.facebook.com/
+2017-07-13 23:09:32,929 [main] INFO UIOperation - Entered Text in Locator email
+2017-07-13 23:09:33,016 [main] INFO UIOperation - Entered Text in Locator pass
+2017-07-13 23:09:33,389 [main] INFO UIOperation - Browser Closed
+2017-07-13 23:09:38,414 [main] INFO UIOperation - Testcase Gmail Login is started to execute..
+2017-07-13 23:09:38,415 [main] INFO UIOperation - Browser Opened
+2017-07-13 23:09:41,236 [main] INFO UIOperation - Navigated to url https://gmail.com
+2017-07-13 23:09:41,839 [main] INFO UIOperation - Entered Text in Locator Email
+2017-07-13 23:09:42,529 [main] INFO UIOperation - Clicked : next
+2017-07-13 23:09:44,118 [main] INFO UIOperation - Entered Text in Locator Passwd
+2017-07-13 23:09:44,916 [main] INFO UIOperation - Clicked : signIn
+2017-07-13 23:10:00,465 [main] INFO UIOperation - Verifying Text : Gmail
+2017-07-13 23:10:00,470 [main] INFO UIOperation - Verified Text : Gmail
+2017-07-13 23:10:02,480 [main] INFO UIOperation - Browser Closed
+2017-07-13 23:20:47,014 [main] INFO UIOperation - Testcase Reset Login In Application is started to execute..
+2017-07-13 23:20:47,021 [main] INFO UIOperation - Browser Opened
+2017-07-13 23:20:48,817 [main] INFO UIOperation - Navigated to url http://demo.guru99.com/v4/
+2017-07-13 23:20:48,951 [main] INFO UIOperation - Entered Text in Locator uid
+2017-07-13 23:20:49,019 [main] INFO UIOperation - Entered Text in Locator password
+2017-07-13 23:20:49,099 [main] INFO UIOperation - Clicked : btnReset
+2017-07-13 23:20:49,289 [main] INFO UIOperation - Browser Closed
+2017-07-13 23:20:55,187 [main] INFO UIOperation - Testcase Facebook Login is started to execute..
+2017-07-13 23:20:55,188 [main] INFO UIOperation - Browser Opened
+2017-07-13 23:21:00,930 [main] INFO UIOperation - Navigated to url https://www.facebook.com/
+2017-07-13 23:21:01,355 [main] INFO UIOperation - Entered Text in Locator email
+2017-07-13 23:21:02,086 [main] INFO UIOperation - Entered Text in Locator pass
+2017-07-13 23:21:02,481 [main] INFO UIOperation - Browser Closed
+2017-07-13 23:21:07,453 [main] INFO UIOperation - Testcase Gmail Login is started to execute..
+2017-07-13 23:21:07,454 [main] INFO UIOperation - Browser Opened
+2017-07-13 23:21:12,711 [main] INFO UIOperation - Navigated to url https://gmail.com
+2017-07-13 23:21:13,188 [main] INFO UIOperation - Entered Text in Locator Email
+2017-07-13 23:21:13,946 [main] INFO UIOperation - Clicked : next
+2017-07-13 23:21:15,533 [main] INFO UIOperation - Entered Text in Locator Passwd
+2017-07-13 23:21:16,461 [main] INFO UIOperation - Clicked : signIn
+2017-07-13 23:21:32,114 [main] INFO UIOperation - Verifying Text : Gmail
+2017-07-13 23:21:32,122 [main] INFO UIOperation - Verified Text : Gmail
+2017-07-13 23:21:34,491 [main] INFO UIOperation - Browser Closed
